@@ -1,0 +1,39 @@
+- name: Curso de React.js
+  photo: /img/courses/react.pdf
+  time: Feb 2021
+  platform: Platzi
+
+- name: Curso de Vue 3
+  photo: /img/courses/vue3.pdf
+  time: Feb 2021
+  platform: Platzi
+
+- name: Curso de SQL y MySQL
+  photo: /img/courses/sql-mysql.pdf
+  time: Oct 2020
+  platform: Platzi
+
+- name: Curso profesional de Git y GitHub
+  photo: /img/courses/git-github.pdf
+  time: Oct 2020
+  platform: Platzi
+
+- name: Curso de Node.js
+  photo: /img/courses/node.pdf
+  time: Oct 2020
+  platform: Platzi
+
+- name: Curso profesional de Vue.js
+  photo: /img/courses/vue-pro.pdf
+  time: Oct 2020
+  platform: Platzi
+
+- name: Curso básico de Vue.js
+  photo: /img/courses/vue-basic.pdf
+  time: Oct 2020
+  platform: Platzi
+
+- name: JavaScript full stack con Sails.js
+  photo: /img/courses/sails.pdf
+  time: Jul 2020
+  platform: Platzi

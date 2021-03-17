@@ -1,0 +1,18 @@
+<section class="section experience">
+  <div class="section__title">Cursos</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for course in site.data.courses %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a href="{{course.photo}}" target="_blank">{{course.name}}</a>
+          </div>
+          <div class="job__time">{{course.time}}</div>
+        </div>
+        <div class="job__position">{{course.platform}}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
