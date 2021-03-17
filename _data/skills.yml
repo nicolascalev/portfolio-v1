@@ -1,33 +1,26 @@
 languages:
   - item: JavaScript (ES6)
-  - item: TypeScript
   - item: HTML
-  - item: CSS/Sass
-  - item: Python
+  - item: CSS
   - item: SQL
-  - item: R
+  - item: Python (Junior)
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Sails
+  - item: Vue
   - item: React
-  - item: Jekyll
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Express
+  - item: Socket.io
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
+  - item: VS Code
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
+  - item: Auth0
+  - item: JWT
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Figma
